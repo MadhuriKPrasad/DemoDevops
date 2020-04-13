@@ -1,6 +1,3 @@
 My first git experience.
 
 dff
-
-
-line disappers when i do revert
